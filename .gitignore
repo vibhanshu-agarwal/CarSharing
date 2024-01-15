@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Car Sharing/*
+!/Car Sharing/task/
+/Car Sharing/task/*
+!/Car Sharing/task/src
+
+# Project exclude paths
+/Topics/Functional data processing with streams/Theory/out/
+/Topics/Functional data processing with streams/Theory/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
+/Topics/Reduction methods/Theory/out/
+/Topics/Reduction methods/Theory/out/production/classes/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
